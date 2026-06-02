@@ -82,7 +82,7 @@ HGmusic 是一款专为游戏玩家设计的 Windows 桌面音效面板。通过
 
 ```bash
 # 克隆仓库
-git clone <仓库地址>
+git clone https://github.com/natasapaul781-tech/GHmusic.git
 cd music_games
 
 # 构建项目
