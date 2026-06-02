@@ -1,7 +1,7 @@
 # 🎵 HGmusic - 游戏音效播放助手
 
 <p align="center">
-  <img src="image/xiaohonghua.jpg" alt="Soundboard Logo" width="200" style="border-radius: 20px;">
+  <img src="image/xiaohonghua.jpg" alt="" width="200" style="border-radius: 20px;">
 </p>
 
 <p align="center">
